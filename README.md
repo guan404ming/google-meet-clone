@@ -3,8 +3,8 @@
 
 <img width="1440" alt="Screen Shot 2023-01-12 at 2 29 47 PM" src="https://user-images.githubusercontent.com/105915352/211994110-867e6728-b157-49ef-b0f7-7a98925223d3.png">
 
-- **Deployed link:** [Fake Google Meet](https://codepen.io/guan404ming/pen/GRdJmMV/)
-
+- 🍒  Layout Practice of Web Programming at National Taiwan University
+- 👨‍💻    Feel interested? Visit my [Codepen](https://codepen.io/guan404ming) and have fun!! 
 
 ## Feature
 - **Participant**
