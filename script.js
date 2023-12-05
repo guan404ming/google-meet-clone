@@ -16,20 +16,20 @@ let guestList = ["CloneX_3",
 let photoList = ["images/CloneX_3.png",
                  "images/CloneX_7.png",
                  "images/CloneX_4.png",
-                 "images/Clonex_1029.png",
-                 "images/Clonex_5.png",
-                 "images/Clonex_17361.png",
-                 "images/Clonex_6.png",
-                 "images/Clonex_12719.png",
-                 "images/Clonex_15127.png",
-                 "images/Clonex_1713.png",
-                 "images/Clonex_3151.png",
-                 "images/Clonex_14155.png",
-                 "images/Clonex_14649.png",
-                 "images/Clonex_5233.png",]
+                 "images/CloneX_1029.png",
+                 "images/CloneX_5.png",
+                 "images/CloneX_17361.png",
+                 "images/CloneX_6.png",
+                 "images/CloneX_12719.png",
+                 "images/CloneX_15127.png",
+                 "images/CloneX_1713.png",
+                 "images/CloneX_3151.png",
+                 "images/CloneX_14155.png",
+                 "images/CloneX_14649.png",
+                 "images/CloneX_5233.png",]
 
 let host = ["Takashipom"]
-let hostPhoto ="images/CLoneX_1.png"
+let hostPhoto ="images/CloneX_1.png"
 function getRandom(min,max){
     return Math.floor(Math.random()*(max-min+1))+min;
 };
